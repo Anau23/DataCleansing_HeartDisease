@@ -1,0 +1,30 @@
+{
+  "rows_before_anything": 1025,
+  "rows_after_dedup": 302,
+  "duplicates_removed": 723,
+  "columns_after": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal",
+    "target",
+    "age_category"
+  ],
+  "artifacts": {
+    "summary_stats_csv": "/content/drive/MyDrive/DataMining2025/artifacts/summary_stats.csv",
+    "outlier_report_csv": "/content/drive/MyDrive/DataMining2025/artifacts/outlier_report_iqr.csv",
+    "hist_age_png": "/content/drive/MyDrive/DataMining2025/artifacts/hist_age.png",
+    "pie_age_category_png": "/content/drive/MyDrive/DataMining2025/artifacts/pie_age_category.png",
+    "bar_target_png": "/content/drive/MyDrive/DataMining2025/artifacts/bar_target.png",
+    "clean_dataset": "/content/drive/MyDrive/DataMining2025/heart_clean.csv"
+  }
+}
