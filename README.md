@@ -96,8 +96,8 @@ Artefak visual:
 ---
 
 ## Tautan
-- **Notebook Colab:** _(isi tautan setelah set “Anyone with the link can view”)_  
-- **Artikel Medium:** _(isi tautan)_  
+- **Notebook Colab:** _https://colab.research.google.com/drive/1AwkbSVhrvSBxlCdSa9ebwXI8iB-i0vTm?usp=sharing_  
+- **Artikel Medium:** _https://medium.com/@analeeu740/data-cleansing-dengan-python-studi-kasus-heart-disease-dataset-fb1bfa6bee02_  
 - **Postingan LinkedIn:** _(isi tautan)_
 
 ---
