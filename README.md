@@ -1,7 +1,6 @@
 # Data Cleansing — Heart Disease Dataset
 
-**Author:** Ana Maria Sri Utami (NIM 2318006) · Teknik Informatika, ITN Malang  
-**Terakhir diperbarui:** 2025-10-02
+**Author:** Ana Maria Sri Utami (NIM 2318006) · Teknik Informatika, ITN Malang.
 
 Repo ini berisi notebook, data, dan artefak untuk tugas **Data Mining (Data Cleansing)**.  
 Fokus: membersihkan dataset penyakit jantung, menghapus duplikat, memvalidasi nilai diskret, dan menambahkan fitur sederhana agar siap dianalisis.
@@ -10,7 +9,6 @@ Fokus: membersihkan dataset penyakit jantung, menghapus duplikat, memvalidasi ni
 
 ## Isi Repo
 ```
-.
 ├─ 2318006DataCleansing.ipynb        # Notebook Colab 
 ├─ heart.csv                         # Dataset asli
 ├─ heart_clean.csv                   # Dataset hasil cleansing
